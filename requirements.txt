@@ -1,0 +1,11 @@
+itsdangerous==1.1.0
+Jinja2==2.10.1
+MarkupSafe==1.1.1
+Werkzeug==0.15.5
+numpy==1.23.5
+scikit-learn==1.2.1
+flask==2.2.2
+gunicorn==21.2.0
+pandas==1.5.3
+scipy==1.10.0
+matplotlib==3.7.0
